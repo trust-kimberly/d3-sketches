@@ -1,0 +1,30 @@
+{
+  "name": "d3-sketches",
+  "version": "1.0.0",
+  "private": true,
+  "description": "D3 Sketches",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.1.5",
+    "gatsby-plugin-image": "^2.1.3",
+    "gatsby-plugin-react-helmet": "^5.1.0",
+    "gatsby-plugin-sass": "^5.1.1",
+    "gatsby-plugin-sharp": "^4.1.4",
+    "gatsby-plugin-sitemap": "^5.1.1",
+    "gatsby-source-filesystem": "^4.1.3",
+    "gatsby-transformer-sharp": "^4.1.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "sass": "^1.43.4"
+  }
+}
